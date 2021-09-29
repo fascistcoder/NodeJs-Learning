@@ -53,7 +53,6 @@ console.log(chalk.bold.blue('Hello world!'));
 */
 
 const chalk = require("chalk");
-
 console.log(chalk.green.inverse("Success!"));
 console.log(chalk.bold.blue("Hello world!"));
 console.log(chalk.red.bold("Error"));
